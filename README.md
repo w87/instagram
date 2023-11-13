@@ -1,1 +1,1 @@
-This package has been archived and abandoned by the owner. It is now read-only.
+An easy-to-use and simple Instagram package / w87.eu PHP8 fork

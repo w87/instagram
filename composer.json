@@ -1,5 +1,5 @@
 {
-    "name": "vinkla/instagram",
+    "name": "w87eu/instagram",
     "description": "An easy-to-use and simple Instagram package",
     "keywords": [
         "instagram",
@@ -10,12 +10,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Vincent Klaiber",
-            "homepage": "https://github.com/vinkla"
+            "name": "Walerian Walawski",
+            "homepage": "https://w87.eu/"
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^8.0",
         "php-http/client-implementation": "^1.0",
         "php-http/discovery": "^1.7",
         "php-http/httplug": "^2.1",
