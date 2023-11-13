@@ -1,6 +1,6 @@
-.git/
+.git
 .github
-.vscode/
+.vscode
 composer.lock
 phpunit.xml
 vendor
